@@ -1,13 +1,13 @@
 #include <stdio.h>
 
 /**
- * main - this is the main function to print a string
+ * main - this is a main function to use printf
  *
- * Return: returns 0 when  successful
+ * Return: 0 when successful
  */
 
 int main(void)
 {
-	printf("with proper grammar, but the outcome is a piece of art, ");
+	printf("with proper grammar, but the outcome is a piece of art,");
 	return (0);
 }
